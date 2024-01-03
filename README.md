@@ -128,7 +128,7 @@ All code must be formatted with [Prettier](https://prettier.io/). To automatical
 
     $ yarn run prettier
 
-## Sponsors
+### Sponsors
 
 Thanks to our generous sponsors for supporting the development of arXiv Vanity!
 
